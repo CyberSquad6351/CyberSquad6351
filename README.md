@@ -1,4 +1,4 @@
-<h1 align="center">🚀 CyberSquad6351 🚀</h1>  
+<h1 align="center"> CyberSquad6351 </h1>  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=800&lines=Ethical+Hacker+%7C+Python+%7C+Cyber+Security+%7C+Tech+YouTuber;Welcome+to+my+Cyber+World!">
 </p>
@@ -49,4 +49,4 @@
 
 ---
 
-🔥 **"Coding And Security That's Grow With U"** 🚀  
+🔥 **"Coding And Security Thats Grow With U"** 🚀  
