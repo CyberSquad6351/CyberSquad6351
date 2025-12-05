@@ -7,8 +7,8 @@
 
 ## 🛠️ About Me  
 🔹 Passionate about **Cybersecurity, Ethical Hacking, and Programming**  
-🔹 Founder of [Cyber_Squad6351](https://cybersquad6351.netlify.app/)  
-🔹 Tech YouTuber at [Cyber_Squad6351](https://www.youtube.com/@Cyber_Squad6351)  
+🔹 Founder of [Cyber Squad Academy](https://cybersquad6351.netlify.app/)  
+🔹 Tech YouTuber at [Cyber Squad Academy](https://www.youtube.com/@Cyber_Squad6351)  
 🔹 Developer of **CodeBuddy** (AI Coding Assistant)  
 
 ---
