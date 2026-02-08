@@ -37,7 +37,7 @@
 
 ## 📫 Let's Connect  
 💻 Website: [cybersquad6351.netlify.app](https://cybersquad6351.netlify.app/)  
-📩 Email: mishraaditya.skm14@gmail.com  
+📩 Email: support@cybersquadacademy.in  
 📺 YouTube: [Cyber Squad Academy](https://www.youtube.com/@Cyber_Squad6351)  
 📷 Instagram: [Cyber Squad Academy](https://www.instagram.com/cyber_squad6351/)  
 📌 Pinterest: [Cyber Squad Academy](https://www.pinterest.com/Cyber_Squad6351/)  
