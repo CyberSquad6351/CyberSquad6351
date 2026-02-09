@@ -36,7 +36,7 @@
 ---
 
 ## 📫 Let's Connect  
-💻 Website: [cybersquad6351.netlify.app](https://cybersquad6351.netlify.app/)  
+💻 Website: [https://cybersquadacademy.in/](https://cybersquadacademy.in/)  
 📩 Email: support@cybersquadacademy.in  
 📺 YouTube: [Cyber Squad Academy](https://www.youtube.com/@Cyber_Squad6351)  
 📷 Instagram: [Cyber Squad Academy](https://www.instagram.com/cyber_squad6351/)  
