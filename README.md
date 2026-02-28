@@ -131,7 +131,7 @@ We actively collaborate on:
 
 | Platform | Link |
 |:---:|:---|
-| 🌐 **Website** | [cybersquad6351.netlify.app](https://cybersquadacademy.in/) |
+| 🌐 **Website** | [cybersquadacademy.in/](https://cybersquadacademy.in/) |
 | 📩 **Email** | [support@cybersquadacademy.in](mailto:support@cybersquadacademy.in) |
 | 📺 **YouTube** | [@Cyber_Squad6351](https://www.youtube.com/@Cyber_Squad6351) |
 | 📷 **Instagram** | [@cyber_squad6351](https://www.instagram.com/cyber_squad6351/) |
