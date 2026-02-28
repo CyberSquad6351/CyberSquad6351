@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐_Website-Visit_Now-0d1117?style=for-the-badge&labelColor=9b59ff)](https://cybersquad6351.netlify.app/)
+[![Website](https://img.shields.io/badge/🌐_Website-Visit_Now-0d1117?style=for-the-badge&labelColor=9b59ff)](https://cybersquadacademy.in/)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Cyber_Squad6351)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cyber_squad6351/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-Explore-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/Cyber_Squad6351/)
@@ -131,7 +131,7 @@ We actively collaborate on:
 
 | Platform | Link |
 |:---:|:---|
-| 🌐 **Website** | [cybersquad6351.netlify.app](https://cybersquad6351.netlify.app/) |
+| 🌐 **Website** | [cybersquad6351.netlify.app](https://cybersquadacademy.in/) |
 | 📩 **Email** | [support@cybersquadacademy.in](mailto:support@cybersquadacademy.in) |
 | 📺 **YouTube** | [@Cyber_Squad6351](https://www.youtube.com/@Cyber_Squad6351) |
 | 📷 **Instagram** | [@cyber_squad6351](https://www.instagram.com/cyber_squad6351/) |
